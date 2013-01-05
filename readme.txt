@@ -1,1 +1,1 @@
-Spice up your RSS feed! And maybe some other stuff.
+Spice up your RSS feed!
